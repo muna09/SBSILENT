@@ -1,14 +1,9 @@
-git clone https://github.com/virojano19/SBSILENT<br> 
-
-cd SBSILENT<br> 
-
-nano dhenza.py<br>
-
-python3 dhenza.py<br> 
-
 Suport by: TBP [TEAM BOT PROTECT]<br> 
                 BEBEK BOT TEAM & JUNSAN JUNIOR <br> 
-          
+git clone https://github.com/virojano19/SBSILENT <br> 
+cd SBSILENT <br> 
+nano dhenza.py <br> 
+python3 dhenza.py <br>            
 Note : Jika ingin instal pke vps tinggal tambah sudo di depan command<br> 
 
 
