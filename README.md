@@ -1,5 +1,9 @@
 git clone https://github.com/virojano19/SBSILENT<br> 
+
 cd SBSILENT<br> 
+
+nano dhenza.py<br>
+
 python3 dhenza.py<br> 
 
 Suport by: TBP [TEAM BOT PROTECT]<br> 
