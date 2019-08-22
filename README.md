@@ -1,6 +1,6 @@
-git clone https://github.com/virojano19/SBSILENT
-cd SBSILENT
-python3 dhenza.py
+git clone https://github.com/virojano19/SBSILENT<br> 
+cd SBSILENT<br> 
+python3 dhenza.py<br> 
 
 Suport by: TBP [TEAM BOT PROTECT]<br> 
                 BEBEK BOT TEAM & JUNSAN JUNIOR <br> 
