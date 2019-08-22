@@ -14,9 +14,9 @@ class Object(object):
 
     def __init__(self):
         if self.isLogin == True:
-            self.log("[ %s ] : Display Name" % self.profile.displayName)
-            self.log("[ %s ] : Mid" % self.profile.mid)
-            self.log("[ %s ] : Auth Token" % self.authToken)
+            self.log("[ %s ]" % self.profile.displayName)
+            self.log("[ %s ]" % self.profile.mid)
+            self.log("[ %s ]" % self.authToken)
 
     """Group"""
 
